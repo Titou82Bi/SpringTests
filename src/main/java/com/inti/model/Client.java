@@ -30,7 +30,7 @@ public class Client {
 		this.email = email;
 	}
 	
-	// un commentaire pour test jenkins
+	// un commentaire pour test jenkins v2
 	
 	
 	
